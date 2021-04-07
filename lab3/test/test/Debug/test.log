@@ -1,0 +1,6 @@
+﻿  test.cpp
+test.obj : error LNK2019: 无法解析的外部符号 _mysql_server_init@12，该符号在函数 _main 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _mysql_server_end@0，该符号在函数 _main 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，该符号在函数 _main 中被引用
+C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\Users\78128\Desktop\课程\software\testMysql\test\Debug\test.exe : fatal error LNK1120: 3 个无法解析的外部命令
